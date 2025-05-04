@@ -6,7 +6,7 @@ import os
 from tkinter.font import Font
 from ttkbootstrap.constants import *
 
-name_archivo = 'datos.xlsx'
+name_archivo = 'date.xlsx'
 
 # Verificar si el archivo ya existe
 
